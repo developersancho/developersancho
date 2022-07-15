@@ -9,6 +9,56 @@
 * 📫 How to reach me developersancho@gmail.com
 * 📄 Know about my experiences.
 
+<h3> 🚧 Open source projects</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+     <tr>
+      <td><a href="https://github.com/developersancho/Rorty.Android"><b>Rorty Android</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/developersancho/Rorty.Android?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/developersancho/Rorty.Android?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/developersancho/Rorty.Android?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/developersancho/Rorty.Android?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/developersancho/JetRorty.Android"><b>JetRorty Modular Compose</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/developersancho/JetRorty.Android?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/developersancho/JetRorty.Android?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/developersancho/JetRorty.Android?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/developersancho/JetRorty.Android?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/developersancho/RortyCompose.V2"><b>Rorty Compose</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/developersancho/RortyCompose.V2?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/developersancho/RortyCompose.V2?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/developersancho/RortyCompose.V2?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/developersancho/RortyCompose.V2?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/developersancho/SwiftRorty.iOS"><b>Rorty SwiftUI</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/developersancho/SwiftRorty.iOS?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/developersancho/SwiftRorty.iOS?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/developersancho/SwiftRorty.iOS?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/developersancho/SwiftRorty.iOS?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/developersancho/Rorty.Flutter"><b>Rorty Flutter</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/developersancho/Rorty.Flutter?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/developersancho/Rorty.Flutter?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/developersancho/Rorty.Flutter?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/developersancho/Rorty.Flutter?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+
 ## 🌐Socials
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12336466/)
 [![Medium](https://img.shields.io/badge/-medium-12100E?style=for-the-badge&logo=medium)](https://developersancho.medium.com/)
